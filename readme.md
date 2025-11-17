@@ -21,19 +21,19 @@ El objetivo principal es ofrecer un sistema de facturación rápido, seguro y ba
 
 ## Instrucciones de Instalación
 
-A continuación se muestra un ejemplo de cómo instalar el proyecto en un entorno local:
+Para ejecutar el prototipo del proyecto en un entorno local, sigue estos pasos:
 
 ```bash
-# Clonar el repositorio (si existiera)
-git clone https://github.com/usuario/billing-app-cloud
+# 1. (Opcional) Clonar el repositorio del proyecto
+git clone https://github.com/elmateo224/billing-app-cloud
 
-# Entrar al directorio
+# 2. Ingresar a la carpeta del proyecto
 cd billing-app-cloud
 
-# Instalar dependencias del proyecto
+# 3. Instalar las dependencias necesarias
 npm install
 
-# Ejecutar el servidor de desarrollo
+# 4. Ejecutar el servidor de desarrollo
 npm run dev
 ```
 
