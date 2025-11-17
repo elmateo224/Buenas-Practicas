@@ -24,7 +24,7 @@ El objetivo principal es ofrecer un sistema de facturación rápido, seguro y ba
 Para ejecutar el prototipo del proyecto en un entorno local, sigue estos pasos:
 
 ```bash
-# 1. (Opcional) Clonar el repositorio del proyecto
+# 1. Clonar el repositorio del proyecto (es opcional)
 git clone https://github.com/elmateo224/Buenas-Practicas
 
 # 2. Ingresar a la carpeta del proyecto
