@@ -25,7 +25,7 @@ Para ejecutar el prototipo del proyecto en un entorno local, sigue estos pasos:
 
 ```bash
 # 1. (Opcional) Clonar el repositorio del proyecto
-git clone https://github.com/elmateo224/billing-app-cloud
+git clone https://github.com/elmateo224/Buenas-Practicas
 
 # 2. Ingresar a la carpeta del proyecto
 cd billing-app-cloud
